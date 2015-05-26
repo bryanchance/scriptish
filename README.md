@@ -1,7 +1,5 @@
 # Scriptish
 
-[![Gitter chat](https://badges.gitter.im/scriptish/scriptish.png)](https://gitter.im/scriptish/scriptish)
-
 ## About
 
 Scriptish is a userscript manager for Firefox, forked from Greasemonkey.
@@ -10,6 +8,7 @@ Scriptish is a userscript manager for Firefox, forked from Greasemonkey.
 
 * Firefox 21+
 * Seamonkey 2.8+
+* Pale Moon 25+
 
 
 ## Download
